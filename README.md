@@ -1,1 +1,1 @@
-# .github
+Progressive is an ecosystem of intelligent communication solutions aimed at improving private and public interactions throught automated self and organisation management. We implement the Matrix protocol (server, clients, bridges, bots, SDKs) and various communication applications for chats, forums and conferences. Mission: fast, functional software without unnecessary overhead. Primary stack: C++ (20/23). All projects are Free Software.
