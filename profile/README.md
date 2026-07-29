@@ -2,7 +2,7 @@ Progressive is an ecosystem of intelligent communication solutions aimed at impr
 
 Roadmap:
 
-    - Mid-August: [progressive-desktop](https://github.com/MaurerAnton/progressive-desktop) alpha version released; work on progressive-android begins.
+    - Mid-August: [progressive-desktop](https://github.com/MaurerAnton/progressive-desktop) alpha version released; work on [progressive-android](https://github.com/progressive-chat/progressive-android) begins.
     
     - End of summer: progressive-android client alpha release candidate.
     
