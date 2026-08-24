@@ -8,7 +8,8 @@ bridges, bots, SDKs) plus focused apps for chats, forums and conferences.
 
 **Mission:** fast, functional software without unnecessary overhead.
 
-**Stack:** C++20/23 everywhere. All projects are Free Software.
+**Stack:** C++20/23 across core, homeserver, CLI and thin clients;
+Kotlin on Android. All projects are Free Software.
 
 ## Featured
 
