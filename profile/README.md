@@ -10,7 +10,7 @@ Native-first Matrix client. Pure C++ core, no Electron, no webview. E2EE by defa
 
 <video src="https://raw.githubusercontent.com/progressive-chat/.github/main/profile/media/progressive-chat-client-trailer.mp4" poster="https://raw.githubusercontent.com/progressive-chat/.github/main/profile/media/progressive-chat-client-trailer.png" width="720" controls preload="none" playsinline></video>
 
-[Download the trailer (MP4, 59s)](https://github.com/progressive-chat/.github/raw/main/profile/media/progressive-chat-client-trailer.mp4)
+[Download the trailer (MP4, 45s)](https://github.com/progressive-chat/.github/raw/main/profile/media/progressive-chat-client-trailer.mp4)
 
 ### Server — Progressive Chat Server
 
@@ -18,4 +18,4 @@ One C++ binary for Matrix, XMPP and IRC plus bridges. Control panel with MCP voi
 
 <video src="https://raw.githubusercontent.com/progressive-chat/.github/main/profile/media/progressive-server-trailer.mp4" poster="https://raw.githubusercontent.com/progressive-chat/.github/main/profile/media/progressive-server-trailer.png" width="720" controls preload="none" playsinline></video>
 
-[Download the trailer (MP4, 55s)](https://github.com/progressive-chat/.github/raw/main/profile/media/progressive-server-trailer.mp4)
+[Download the trailer (MP4, 41s)](https://github.com/progressive-chat/.github/raw/main/profile/media/progressive-server-trailer.mp4)
